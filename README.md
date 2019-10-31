@@ -18,3 +18,8 @@ datetime
 itertools
 
 math
+# How to run 
+Run the run.sh bash file, which will call my border_crossing_statistics.py script.
+Also specify the input and output file name. 
+
+example - python3 src/border_crossing_statistics.py --input input/Border_Crossing_Entry_Data.csv --output output/report.csv
