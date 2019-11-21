@@ -1,5 +1,5 @@
 # border-crossing-analysis
-This is my attempt to sort CSV file using Python
+This is my attempt to sort large CSV file using Python
 
 # Problem 
 The Bureau of Transportation Statistics regularly makes available data on the number of vehicles, equipment, passengers and pedestrians crossing into the United States by land.
